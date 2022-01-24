@@ -1,0 +1,13 @@
+using System;
+
+namespace: По_Мо
+{
+class Program
+{
+static void Main(string[] args)
+{
+Console.WriteLine("I'm Artem Ivanov, and I'm not a monkey");
+Console.ReadLine();
+}
+}
+}
